@@ -1,4 +1,4 @@
-# Interfaz grafica menu de productos
+# Interfaz grafica menú de productos
 El codigo implementa una interfaz grafica en Python usando Tkinter, se muestra distintos componentes distribuidos ewn cinto pestañas (tabs) mediante la utilización de ttk.Notebook.
 
 # Resumen general del programax
