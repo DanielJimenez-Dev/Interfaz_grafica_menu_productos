@@ -1,11 +1,11 @@
 # Interfaz grafica menú de productos
 El codigo implementa una interfaz grafica en Python usando Tkinter, se muestra distintos componentes distribuidos ewn cinto pestañas (tabs) mediante la utilización de ttk.Notebook.
 
-# Resumen general del programax
+# Resumen general del programa:
 1. Se crea una ventana principal titulada 'Productos en venta' con un tamañp de 800x600.
 2. Se organiza la interfaz en conto tabuladores, cada uno con funcionalidas distintas para demotrar el uso de elementos gráficos como entrada de texto, texto con scroll, combobox, imagenes y una barra de progreso.
 
-# Resumen del tabulador
+# Resumen del tabulador:
 
 Tab1: "Productos"
 - Contiene un etiqueta y una entrada de texto para el nombre del un producto.
